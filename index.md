@@ -1,4 +1,4 @@
-## Some information on this site will continue to be useful through 2026 as the [main obs4MIPs information portol transitions to WCRP's ESMO](https://www.wcrp-esmo.org/projects-and-panels/obs4mips).  
+## Some information on this site will continue to be useful through 2026 as the [main obs4MIPs information portal transitions to WCRP's ESMO](https://www.wcrp-esmo.org/projects-and-panels/obs4mips).  
 
 Obs4MIPs is an effort to make observational data more accessible for climate model
 evaluation, development and research. It does so by providing observational products
